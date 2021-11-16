@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Resume
+title: Publication
 permalink: /publication/
 ---
 
-Hi，I am Shiyun Liang.
 
-### Researh Interests
+### 1.Adaptive Sliding Mode Disturbance Observer-Based Deep Reinforcement Learning for Robust Motion Control of Micropositioners—Shiyun Liang, Ruidong Xi, Xiao Xiao, Zhixin Yang. 
 
 Reinforcement learning, Control systems and motion planning
 
