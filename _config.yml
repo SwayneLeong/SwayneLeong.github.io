@@ -24,7 +24,7 @@ navigation:
     url: /
   - name: Resume
     url: /Resume
-  - name: Publication
+  - name: Publications
     url: /publication
   - name: 归档
     url: /archive
