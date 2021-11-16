@@ -9,7 +9,7 @@ permalink: /projects/
 
 17th National “Tiaozhanbei” Competition, finals in Nov 2021
 
-![公众号二维码](https://SwayneLeong.github.io/images/mp.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![公众号二维码](https://SwayneLeong.github.io/images/competion-1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 
