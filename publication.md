@@ -7,11 +7,11 @@ permalink: /publication/
 
 ### 1.Adaptive Sliding Mode Disturbance Observer-Based Deep Reinforcement Learning for Robust Motion Control of Micropositioners—Shiyun Liang, Ruidong Xi, Xiao Xiao, Zhixin Yang. 
 
-Reinforcement learning, Control systems and motion planning
+Microsystem Technologies submitted
 
-### Education
 
-M.S. , University of Macau                                                   	     	
 
-B.S. ,	Chongqing University	                                                   
+### 2.Adaptive Sliding Mode Disturbance Observer based Control for an Micropositioner with Prescribed Performance—Ruidong Xi, Xiao Xiao, Shiyun Liang, Zhixin Yang.
+
+IEEE Transactions on Industrial Electronics submitted                                                   
 
