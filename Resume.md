@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /Resume/
 ---
 
 Hi，I am Shiyun Liang.
