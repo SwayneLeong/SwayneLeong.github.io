@@ -13,8 +13,21 @@ permalink: /projects/
 
 
 
-### 2.Adaptive Sliding Mode Disturbance Observer based Control for an Micropositioner with Prescribed Performance—Ruidong Xi, Xiao Xiao, Shiyun Liang, Zhixin Yang.
+### 2. 发明专利：一种基于低光照增强算法的管廊隧道智能巡检运维机器人系统及作业方法
 
-IEEE Transactions on Industrial Electronics submitted 
+ It will be submitted soon. 
+ 
+ 
+### 3. The 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 
-![公众号二维码](https://SwayneLeong.github.io/images/mp1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+volunteer  
+
+![公众号二维码](https://SwayneLeong.github.io/images/iros.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+### 4.	The 2019 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM)
+volunteer  
+
+![公众号二维码](https://SwayneLeong.github.io/images/ieem.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+
