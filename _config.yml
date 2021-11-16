@@ -26,8 +26,8 @@ navigation:
     url: /Resume
   - name: Publications
     url: /publication
-  - name: 归档
-    url: /archive
+  - name: Projects
+    url: /projects
   - name: 标签
     url: /tags
 
