@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Publications
-permalink: /publication/
+title: Projects
+permalink: /projects/
 ---
 
 
-### 1.Adaptive Sliding Mode Disturbance Observer-Based Deep Reinforcement Learning for Robust Motion Control of Micropositioners—Shiyun Liang, Ruidong Xi, Xiao Xiao, Zhixin Yang. 
+### 1. Low Light Enhancement Algorithm Based Intelligent Patrol and Maintenance Robot for Corridor Tunnel—Weixiang Liang, Shiyun Liang, Ziqin Ding.
 
-Microsystem Technologies submitted
+17th National “Tiaozhanbei” Competition, finals in Nov 2021
 
 ![公众号二维码](https://SwayneLeong.github.io/images/mp.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
