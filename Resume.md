@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Resume
 permalink: /Resume/
 ---
 
@@ -12,9 +12,9 @@ Reinforcement learning, Control systems and motion planning
 
 ### Education
 
-M.S.  University of Macau                                                   	 Sep 2019– June 2022    	
+M.S. , University of Macau                                                   	     	
 
-B.S.	Chongqing University	                                                   Sep 2015– June 2019
+B.S. ,	Chongqing University	                                                   
 
 
 
