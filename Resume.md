@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Resume
-permalink: /Resume/
+title: About
+permalink: /about/
 ---
 
 Hi，I am Shiyun Liang.
@@ -14,7 +14,11 @@ Reinforcement learning, Control systems and motion planning
 
 M.S. , University of Macau                                                   	     	
 
-B.S. ,	Chongqing University	                                                   
+B.S. ,	Chongqing University	
+
+### Professional Skills
+Experienced in MATLAB, C++, Python, Solidworks.
+
 
 
 
