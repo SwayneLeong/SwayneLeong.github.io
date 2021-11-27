@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi，I am Shiyun Liang.
+Hi, I am Shiyun Liang.
 
 ### Researh Interests
 
