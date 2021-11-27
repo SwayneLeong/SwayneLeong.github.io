@@ -17,7 +17,7 @@ M.S. , University of Macau
 B.S. ,	Chongqing University	
 
 ### Professional Skills
-Experienced in MATLAB, C++, Python, Solidworks.
+Experienced in MATLAB, C++, Python, ROS, Solidworks.
 
 
 
