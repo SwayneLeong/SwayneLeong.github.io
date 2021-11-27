@@ -11,7 +11,7 @@ permalink: /projects/
 
 ![公众号二维码](https://SwayneLeong.github.io/images/competion-1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-### https://github.com/SwayneLeong/SwayneLeong.github.io/blob/master/detection-robot.mp4
+### [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://github.com/SwayneLeong/SwayneLeong.github.io/blob/master/detection-robot.mp4)
 
 
 
