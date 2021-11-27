@@ -11,6 +11,8 @@ permalink: /projects/
 
 ![公众号二维码](https://SwayneLeong.github.io/images/competion-1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+### https://github.com/SwayneLeong/SwayneLeong.github.io/blob/master/detection-robot.mp4
+
 
 
 ### 2. 发明专利：一种基于低光照增强算法的管廊隧道智能巡检运维机器人系统及作业方法
