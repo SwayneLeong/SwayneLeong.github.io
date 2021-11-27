@@ -11,7 +11,7 @@ permalink: /projects/
 
 ![公众号二维码](https://SwayneLeong.github.io/images/competion-1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-### [![Watch the video](https://github.com/SwayneLeong/SwayneLeong.github.io/blob/master/robotD.png)](https://www.youtube.com/watch?v=_BQ8XGXlExQ)
+### [![Watch the video](https://www.youtube.com/watch?v=_BQ8XGXlExQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=_BQ8XGXlExQ)
 
 
 
