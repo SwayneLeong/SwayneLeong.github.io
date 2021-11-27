@@ -6,7 +6,7 @@ permalink: /Awards/
 
 
 
-### 1.	Third prize of GREE scholarship.
+### 1.  Third prize of GREE scholarship.
 
 
 
