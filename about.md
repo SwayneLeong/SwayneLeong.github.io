@@ -8,7 +8,7 @@ Hi, I am Shiyun Liang.
 
 ### Researh Interests
 
-Reinforcement learning, Control systems and motion planning
+Reinforcement learning, control systems and motion planning
 
 ### Education
 
